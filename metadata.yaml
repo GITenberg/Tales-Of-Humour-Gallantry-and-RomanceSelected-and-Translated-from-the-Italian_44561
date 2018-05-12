@@ -27,6 +27,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Compilation and translation variously attributed to Roscoe or Akerman.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44561#Tales-Of-Humour-Gallantry-and-RomanceSelected-and-Translated-from-the-Italian
 gutenberg_issued: '2014-01-01'
 gutenberg_type: Text
 identifiers:
